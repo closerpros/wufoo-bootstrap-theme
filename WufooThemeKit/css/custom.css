@@ -1,10 +1,13 @@
 /* - - - - - - - - - - - - - - - - - - - - -
 
- Title : 
- Author : 
+ Title : What we do
+ Author : Ryan
  URL : http://
 
  Last Updated : 
 
 - - - - - - - - - - - - - - - - - - - - - */
 
+.wufoo .info .h2 {
+ display: none;
+}
